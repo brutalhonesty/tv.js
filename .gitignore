@@ -2,3 +2,4 @@ node_modules/
 public/main/build/
 public/remote/build/
 /movies/
+.DS_STORE
